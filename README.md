@@ -2,4 +2,4 @@
 sklep internetowy -  
 Łukasz Szkatuła, 
 Wojciech Kin, 
-Jakub Mendala
+Jakub Majer
