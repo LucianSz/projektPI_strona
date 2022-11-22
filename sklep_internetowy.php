@@ -301,7 +301,6 @@
         </div>
     </div>
 </main>
-
 <footer>
     <div class="container">
                 <div class="row" style="border-bottom: 1px rgb(151,157,163) solid;">
